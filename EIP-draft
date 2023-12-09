@@ -12,11 +12,13 @@ created: 2023-12-09
 
 ## Abstract
 
-This EIP proposes a new token standard for Ethereum, enabling the tokenization of real-world assets (RWAs) with an integrated recall function. This feature allows asset owners to reclaim the tokens after issuance, providing flexibility in managing ownership and investment.
+This EIP introduces a novel token standard for the Ethereum blockchain, designed to facilitate the tokenization of real-world assets (RWAs) with an innovative recall function. This standard enables asset owners to issue tokens representing a share of their real-world assets, such as real estate or art, while retaining the capability to recall these tokens at a later stage. This recall feature adds a layer of flexibility and control over the asset, allowing owners to manage their investments more dynamically. The standard is intended to enhance the Ethereum ecosystem by broadening the scope of asset tokenization, making it more adaptable and appealing for a wider range of use cases.
 
 ## Motivation
 
-The motivation for this EIP is to address the limitations in current RWA tokenization methods, which lack the functionality for asset owners to recall or retract tokens once sold. This standard aims to empower both asset owners and investors by introducing a reliable mechanism for recall, thus enhancing the liquidity and attractiveness of RWAs as investment vehicles.
+The primary motivation behind this EIP is to overcome the inherent limitations present in the current landscape of RWA tokenization. Presently, once an asset is tokenized and its tokens are distributed among investors, the original asset owner loses the ability to manage the asset as a unified entity. This situation poses significant challenges, especially when there's a need to sell or leverage the entire asset, rather than its fractionalized parts. 
+
+Our proposed standard introduces a mechanism for recall, which allows asset owners to effectively retract the tokens they have issued, in exchange for a predefined recall price. This capability ensures that the original owners retain a higher degree of control over their assets, enabling them to respond to changing market conditions or personal circumstances. For investors, this mechanism provides a clear exit strategy, potentially with a predefined profit if the recall price is set above the initial selling price. By addressing these limitations, the new standard is poised to make RWA tokenization a more viable and attractive investment model, enhancing liquidity and flexibility in the market.
 
 ## Specification
 
