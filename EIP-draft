@@ -3,7 +3,7 @@ eip: <to be assigned>
 title: Recallable Token Standard for Real World Assets & Crowdfunding
 description: A standard for tokenizing real-world assets with a recall function, enabling flexible ownership and investment opportunities.
 author: Hojay Lee (@hojayxyz), Saud Iqbal (@SaudxInu), Mehul Gaidhani (@MehulG), Kalpita Mandal (@KalpitaMandal), Vikas Kashyap (@vikashyap)
-discussions-to: <URL where discussion about this EIP is taking place>
+discussions-to: https://ethereum-magicians.org/t/new-eip-recallable-token-standard-for-rwa-crowdfunding/17170
 status: Draft
 type: Standards Track
 category: ERC
